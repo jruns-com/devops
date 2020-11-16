@@ -1,0 +1,22 @@
+git pull
+cd ..
+cd app
+git pull
+cd ..
+cd docs
+git pull
+cd ..
+cd example
+git pull
+cd ..
+cd logo
+git pull
+cd ..
+cd runner
+git pull
+cd ..
+cd www
+git pull
+cd ..
+ll
+cd devops
